@@ -1,27 +1,27 @@
 JPN
 1.
-ƒŠƒl[ƒ€(–¼‘O‚ð•ÏX)‚·‚éƒb•K—v‚Ì‚ ‚éŽÊ^/ƒtƒ@ƒCƒ‹‚¾‚¯‚ðW‚ß‚½ƒtƒHƒ‹ƒ_‚ðì‚Á‚Ä‚­‚¾‚³‚¢B
-‚Â‚Ü‚èAŒ³ƒf[ƒ^‚ÍˆÀ‘S‚Ì‚½‚ßŽc‚µ‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢B
+ãƒªãƒãƒ¼ãƒ (åå‰ã‚’å¤‰æ›´)ã™ã‚‹ãƒƒå¿…è¦ã®ã‚ã‚‹å†™çœŸ/ãƒ•ã‚¡ã‚¤ãƒ«ã ã‘ã‚’é›†ã‚ãŸãƒ•ã‚©ãƒ«ãƒ€ã‚’ä½œã£ã¦ãã ã•ã„ã€‚
+ã¤ã¾ã‚Šã€å…ƒãƒ‡ãƒ¼ã‚¿ã¯å®‰å…¨ã®ãŸã‚æ®‹ã—ã¦ãŠã„ã¦ãã ã•ã„ã€‚
 
 2.
 pr.bat
 start.bat
-‚ðŽÊ^‚ª‚ ‚éƒtƒHƒ‹ƒ_‚Éˆê‚É“ü‚ê‚Ä‚­‚¾‚³‚¢
+ã‚’å†™çœŸãŒã‚ã‚‹ãƒ•ã‚©ãƒ«ãƒ€ã«ä¸€ç·’ã«å…¥ã‚Œã¦ãã ã•ã„
 
-3.start.bat‚ðƒ_ƒuƒ‹ƒNƒŠƒbƒN
+3.start.batã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯
 
 ////////////////////////////////
 
-image.1‚Æ‚¢‚¤–¼‘O‚ª‹C‚É“ü‚ç‚È‚©‚Á‚½‚çA
+image.1ã¨ã„ã†åå‰ãŒæ°—ã«å…¥ã‚‰ãªã‹ã£ãŸã‚‰ã€
 
-start.bat ‚ð‰EƒNƒŠƒbƒN¨•ÒW
+start.bat ã‚’å³ã‚¯ãƒªãƒƒã‚¯â†’ç·¨é›†
 
-image jpg ‚Æ‘‚¢‚Ä‚ ‚é‚Æ‚±‚ë‚ð‚¤‚Ü‚¢‚±‚Æ•ÒW‚µ‚Ä‚­‚¾‚³‚¢B
+image jpg ã¨æ›¸ã„ã¦ã‚ã‚‹ã¨ã“ã‚ã‚’ã†ã¾ã„ã“ã¨ç·¨é›†ã—ã¦ãã ã•ã„ã€‚
 
-—á‚¦‚Î
+ä¾‹ãˆã°
 tokyo jpg
 usj jpg
-mago jpg ‚È‚Ç‚Å‚·B
+mago jpg ãªã©ã§ã™ã€‚
 
 _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
 ENG
