@@ -1,6 +1,6 @@
 JPN
 1.
-リネーム(名前を変更)するッ必要のある写真/ファイルだけを集めたフォルダを作ってください。
+リネーム(名前を変更)する必要のある写真/ファイルだけを集めたフォルダを作ってください。
 つまり、元データは安全のため残しておいてください。
 
 2.
@@ -26,7 +26,7 @@ mago jpg などです。
 _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
 ENG
 
-pr.bat and start.bat to directory photos
+Put 2 files - pr.bat and start.bat to photos directory.
 
 click start.bat
 
